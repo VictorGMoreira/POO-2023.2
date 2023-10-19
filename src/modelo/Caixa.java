@@ -1,3 +1,5 @@
+package modelo;
+
 public class Caixa {
     public int quantGarrafas;
     public Esteira esteira;
